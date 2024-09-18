@@ -27,3 +27,6 @@
 1. git branch development
 2. git checkout development
 3. ![](./github4.png) ![](./github5.png)
+4. git add .
+5. git commit -m "cambios index.html"
+6. git push -u origin development
