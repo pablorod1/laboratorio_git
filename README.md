@@ -30,3 +30,9 @@
 4. git add .
 5. git commit -m "cambios index.html"
 6. git push -u origin development
+
+### Objetivo 5 - Hacer un merge
+
+1. git checkout master
+2. git merge development
+3. git push -u origin master
